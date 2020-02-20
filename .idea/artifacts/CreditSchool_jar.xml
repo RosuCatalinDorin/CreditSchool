@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CreditSchool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CreditSchool_jar</output-path>
+    <root id="archive" name="CreditSchool.jar">
+      <element id="module-output" name="CreditSchool" />
+    </root>
+  </artifact>
+</component>
