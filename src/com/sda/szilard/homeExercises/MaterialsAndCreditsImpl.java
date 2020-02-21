@@ -142,7 +142,7 @@ public class MaterialsAndCreditsImpl implements iMaterials {
 
         System.out.println("CREDITE TOTALE" + " = " + resultMaterialsAndCredit);
         System.out.println("Media finala" + " = " + resultMaterialsAndCredit / creditGathering);
-
+        TimeUnit.MINUTES.sleep(1);
 }
 
 }
